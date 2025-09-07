@@ -17,3 +17,6 @@ build/
 *.suo
 *.user
 *.tmp
+
+# Visual Studio
+.vs/
