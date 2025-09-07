@@ -1,0 +1,19 @@
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pastas de build
+bin/
+obj/
+dist/
+build/
+
+# Configurações do editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.tmp
